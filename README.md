@@ -1,2 +1,1 @@
-# platform
-Science Live Platform
+# Science Live Platform
